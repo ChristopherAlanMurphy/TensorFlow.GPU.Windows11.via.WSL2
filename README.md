@@ -11,6 +11,8 @@ Christopher Murphy
 While many cloud-based hardware acceleration solutions exist, leveraging a GPU to process TensorFlow workloads on a Windows 11 laptop can be challenging for a beginner.  There are specific dependencies between the NVIDIA GPU driver, CUDA versions, Python Versions and TensorFlow versions.  This guide hopes to simplify some of this confusion for NVIDIA GeForce RTX GPUs on Windows 11 environments.   
 
 # Repository Information:
-A PDF guide for the installationa and configuration of the environment.
-A powerpoint presentation summary of the PDF Guide.
-A test file that can be run to validate the workload is being processed by the GPU.
+This repo contains:
+
+*   A PDF guide for the installation and configuration of the WSL2 environment on Windows 11.
+*   A powerpoint presentation summary of the PDF Guide.
+*   A test file that can be run to validate a workload is being processed on the GPU.
